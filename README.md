@@ -2,4 +2,4 @@
 
 ![commit record snake gif](https://github.com/pudding0803/pudding0803/blob/output/github-contribution-grid-snake.gif)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=pudding0803&show_icons=true) ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pudding0803&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=pudding0803&show_icons=true&include_all_commits=true) ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pudding0803&layout=compact)
